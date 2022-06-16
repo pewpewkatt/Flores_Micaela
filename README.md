@@ -60,7 +60,6 @@
           <td>150 Horas</td>
        </tr>
    </table>
-      
-       <br><a href="file:///C:/Users/hadam/OneDrive/Documentos/mica.html"> el otro htmlxd </a>
+      <a href="file:///C:/Users/hadam/OneDrive/Documentos/mica.html"> el otro htmlxd </a>
  </body>
 </html>
